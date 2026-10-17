@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: blue;
+}
+nav{
+    display: flex;
+    background-color: #4B5694;
+}
+button{
+    height: 10;
+    background-color: 7288AE;
+}
